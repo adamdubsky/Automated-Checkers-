@@ -7,7 +7,8 @@
 #include "game.h"
 #include "checkers.h"
 
-//g++ -Wall checkers.cc checkers.h colors.h game.cc game.h samplemain.cc space.cc space.h
+///g++ -Wall checkers.cc checkers.h colors.h game.cc game.h samplemain.cc space.cc space.h
+/// testing three slashes for doxygen
 namespace main_savitch_14
 {
     //default contructor
