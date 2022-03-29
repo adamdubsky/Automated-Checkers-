@@ -1,6 +1,9 @@
-//Adam Dubsky
-//Final Project Checkers
-//April 2021
+/**
+* @file checkers.cc
+* @brief file that contains all the functions for the checkers class
+* @author Adam Dubsky
+*/
+
 #include "game.h"
 #include "checkers.h"
 
