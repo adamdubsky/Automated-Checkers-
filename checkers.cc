@@ -19,7 +19,7 @@ namespace main_savitch_14
         whitePieces = 12;
     }
 
-    //Restarts the game at the beginning
+    ///Restarts the game at the beginning
     void Checkers::restart()
     {
         //both of these loops are making the board all empty; loop is vertical
